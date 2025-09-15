@@ -11,7 +11,7 @@ Parādību, kad divi vai vairāki viļņi vienlaikus iedarbojas kādā telpas pu
 
 Koherentus gaismas viļņus var iegūt, sadalot vienu vilni divās daļās un pēc tam ļaujot šīm daļām pārklāties. Kā vienu no sadalīšanas veidiem izmanto Junga dubultspraugu, kuras principiālā shēma parādīta 1. attēlā
 
-![1. att. Junga dubultsprauga]()
+![1. att. Junga dubultsprauga](./1.png)
 
 Par dubultspraugu sauc divas attālumā `d` paralēli novietotas vienādas spraugas `S_1` un `S_2`. 
 
@@ -19,7 +19,7 @@ Ja monohromatiskas gaismas vilnis no reāla gaismas avota `S` ir nonācis līdz 
 
 Saskaņā ar Heigensa principu punkti `S_1` un `S_2` ir jauni viļņu avoti, kas dod viļņus visos virzienos un darbojas vienādās fāzēs. Tāpēc, šiem sekundārajiem viļņiem pārklājoties, rodas interferences aina - spraugām paralēlas gaišas un tumšas interferences joslas. To var novērot uz ekrāna vai arī izmantojot okulārmikrometru. Novērojamās interferences ainas izskats parādīts 2. attēlā. 
 
-![2. att. Interferences aina, kas iegūta ar Junga dubultspraugu ]()
+![2. att. Interferences aina, kas iegūta ar Junga dubultspraugu ](./2.png)
 
 Saskaņā ar lekcijas par gaismas interferenci formulu (6.1.7), Junga dubultspraugas gadījumā attālums starp blakus esošajām interferences joslām (joslas platums) ir:
 ```LaTeX
@@ -35,12 +35,12 @@ kur `m` ─ interferences joslu skaits. Izteiksmi (2) izmanto dubutspraugas plat
 
 Attālumu `D` starp interferences joslu (gaišo vai tumšo) viduslīnijām mēra ar okulārmikrometru, nosakot līniju koordinātes. Okulārmikrometra skala ir graduēta milimetros un to daļās. Veselo milimetru iedaļas novērojamas okulāra redzeslaukā vienlaikus ar interferences ainu, bet milimetra desmitdaļas un simtdaļas nolasāmas no mikrometriskās skrūves. Ja tiek nolasītas joslu koordinātes `x_i`, iespējams noteikt `D` pie dažādām `m` vērtībām. 
 
-Piemēram, ja ir zināma 5. joslas koordināte `x_5` un 1. joslas koordināte `x_1`, tad `D = x5 - x1`, bet `m = 4`, jo starp 5. un 1. līniju atrodas 4 interferences joslas (skat. 2. attēlu).
+Piemēram, ja ir zināma 5. joslas koordināte `x_5` un 1. joslas koordināte `x_1`, tad `D = x_5 - x_1`, bet `m = 4`, jo starp 5. un 1. līniju atrodas 4 interferences joslas (skat. 2. attēlu).
 
 Vēlams izdarīt vairākas interferences ainas mērījumu sērijas ─ katru ar citu attālumu `a`. Iespējams veikt mērījumus arī dažāda platuma dubultspraugām. Šajā gadījumā varam eksperimentāli pārliecināties, kā mainās interferences joslu platums atkarībā no dubultspraugas
 platuma.
 
-Attālums `d` starp spraugām parasti ir mazāks par 1 mm. To iespējams noteikt arī izmantot mērmikroskopu. Veicot mērījumus ar mikroskopu, parasti ir grūti precīzi noteikt spraugas viduspunkta atrašanās vietu, tādēļ mērījumus veic pēc kārtas uz katras spraugas abām malām (labajām un kreisajām) un pēc šiem nolasījumiem aprēķina `d`.
+Attālums `d` starp spraugām parasti ir mazāks par 1 mm. To iespējams noteikt arī izmantojot mērmikroskopu. Veicot mērījumus ar mikroskopu, parasti ir grūti precīzi noteikt spraugas viduspunkta atrašanās vietu, tādēļ mērījumus veic pēc kārtas uz katras spraugas abām malām (labajām un kreisajām) un pēc šiem nolasījumiem aprēķina `d`.
 
 ## Iespējamie darba uzdevumi.
 

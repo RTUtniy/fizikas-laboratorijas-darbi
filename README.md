@@ -31,7 +31,7 @@ Kopija tiem failiem, kas ir ORTUSā + "MarkDown" verisijas lai būtu vieglāk p�
 
 ## 3. daļa
 
-- 3.2.1. Gaismas interference. Junga dubultsprauga
+- [3.2.1. Gaismas interference. Junga dubultsprauga](./part3/3-2-1/)
 - 3.2.2. Gaismas interference. Ņūtona gredzeni
 - 3.2.3. Freneļa biprizma
 - 3.3. Difrakcijas režģis
